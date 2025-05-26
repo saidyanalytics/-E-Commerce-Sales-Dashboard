@@ -30,6 +30,7 @@ This project presents a professional and interactive **E-Commerce Sales Dashboar
 
 ## 📈 Business Insights
 
+
 -  **Maharashtra** had the highest sales (~102K)
 -  **Furniture** category led in quantity sold
 -  **Credit Card** was the most used payment mode
@@ -51,21 +52,60 @@ This project presents a professional and interactive **E-Commerce Sales Dashboar
 
 The dataset is a Collected e-commerce sales dataset used for educational and portfolio purposes.
 
+
+
+
 ---
 
-##  How to Use
+## 👤 My Role
 
-1. Clone the repository or download the `.pbix` file
-2. Open with **Power BI Desktop**
-3. Interact with slicers and visuals to explore the insights
-4. Optionally, replace with your own dataset and reuse the visuals
+
+
+I led the entire pipeline independently:
+
+
+
+- Cleaned and prepared raw employee data using Excel
+- Queried insights with SQL, including joins and derived metrics
+- Built a fully interactive Power BI dashboard from scratch  
+- Translated complex data into a clear, actionable HR intelligence tool
+
+This is not just a dashboard — it's a **decision-support system**.
+
+---
+
+## 🎥 Video
+
+
+
+📽️ **Watch the dashboard in action:**  
+
+
+🔗 [Insert your YouTube or Google Drive video link here]
+
+---
+
+## 📂 Project Files
+
+- `AKH_Employee_Analysis.pbix` — Full Power BI file  
+- `Dashboard_Screenshot.png` — Visual preview
+
+---
+
+## 📞 Work With Me
+
+I'm currently open to:
+- Remote full-time Data Analyst roles  
+- Freelance dashboard/reporting projects  
+- Contract-based Power BI development work
 
 ---
 
 ##  Feedback & Support
 
+
 If you liked this project, please give it a ⭐ on GitHub.  
-For any suggestions or collaborations, feel free to [reach out](mailto:your.email@example.com).
+For any suggestions or collaborations, feel free to [reach out](saidy15-4501@diu.edu.bd).
 
 ---
 
