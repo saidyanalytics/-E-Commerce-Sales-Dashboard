@@ -72,6 +72,7 @@ I led the entire pipeline independently:
 
 This is not just a dashboard — it's a **decision-support system**.
 
+
 ---
 
 ## 🎥 Video
@@ -81,16 +82,13 @@ This is not just a dashboard — it's a **decision-support system**.
 📽️ **Watch the dashboard in action:**  
 
 
-🔗 [Insert your YouTube or Google Drive video link here]
+🔗 [(https://drive.google.com/file/d/1smrKuTM3TtVmZngPgOu-4ceYqscMwt1P/view?usp=sharing)]
+
+
 
 ---
 
-## 📂 Project Files
 
-- `AKH_Employee_Analysis.pbix` — Full Power BI file  
-- `Dashboard_Screenshot.png` — Visual preview
-
----
 
 ## 📞 Work With Me
 
@@ -98,6 +96,8 @@ I'm currently open to:
 - Remote full-time Data Analyst roles  
 - Freelance dashboard/reporting projects  
 - Contract-based Power BI development work
+
+
 
 ---
 
