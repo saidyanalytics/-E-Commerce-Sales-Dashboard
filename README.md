@@ -95,7 +95,7 @@ This is not just a dashboard — it's a **decision-support system**.
 I'm currently open to:
 - Remote full-time Data Analyst roles  
 - Freelance dashboard/reporting projects  
-- Contract-based Power BI development work
+- Contract-based Power BI development work.
 
 
 
