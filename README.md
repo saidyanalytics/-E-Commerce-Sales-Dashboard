@@ -17,7 +17,7 @@ This project presents a professional and interactive **E-Commerce Sales Dashboar
 
 ##  Key Features
 
--  **KPI Cards**: Sum of Amount, Profit, and Quantity 
+-  **KPI Cards**: Sum of Amount, Profit, and Quantity  
 -  **Top Customers**: Sales performance by customer name
 -  **Profit Trends**: Monthly profit visualization
 - **Sub-Category Breakdown**: Sales by sub-categories
