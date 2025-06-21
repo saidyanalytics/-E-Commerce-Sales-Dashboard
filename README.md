@@ -6,7 +6,7 @@ This project presents a professional and interactive **E-Commerce Sales Dashboar
 )
 
 
-##  Tools & Technologies Used
+##  Tools & Technologies Used 
 
 - Microsoft Excel – for initial data cleaning and preprocessing
 - **SQL** – for data exploration, joins, and value-based filtering
