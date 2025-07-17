@@ -2,7 +2,8 @@
 
 This project presents a professional and interactive **E-Commerce Sales Dashboard** built using **Excel, SQL, and Power BI**. It showcases my end-to-end data analytics workflow — from data cleaning to data modeling, SQL analysis, and final dashboard design.
 
-![Dashboard Screenshot](![Screenshot 2025-05-26 010036](https://github.com/user-attachments/assets/6e8165df-c244-4a68-822d-7e6794155e10)
+
+(![Screenshot 2025-05-26 010036](https://github.com/user-attachments/assets/6e8165df-c244-4a68-822d-7e6794155e10)
 )
 
 
