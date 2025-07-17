@@ -17,7 +17,7 @@ This project presents a professional and interactive **E-Commerce Sales Dashboar
 ---
 
 ##  Key Features
-
+  
 -  **KPI Cards**: Sum of Amount, Profit, and Quantity  
 -  **Top Customers**: Sales performance by customer name
 -  **Profit Trends**: Monthly profit visualization
@@ -29,7 +29,7 @@ This project presents a professional and interactive **E-Commerce Sales Dashboar
 
 ---
 
-## 📈 Business Insights
+## 📈 Business Insights 
 
 
 -  **Maharashtra** had the highest sales (~102K)
